@@ -1,0 +1,12 @@
+console.log("---------------------------");
+console.log("Test message");
+console.log(10);
+console.log("---------------------------");
+let fname = "Sarang";
+console.log(typeof fname);
+console.log(fname);
+console.log("---------------------------");
+let number = 10;
+console.log(typeof number);
+console.log(number);
+console.log("---------------------------");
