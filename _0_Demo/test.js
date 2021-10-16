@@ -10,3 +10,4 @@ let number = 10;
 console.log(typeof number);
 console.log(number);
 console.log("---------------------------");
+console.log("---------------------------");
